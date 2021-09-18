@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SteveIve
 - 👀 I’m interested in C/Java/Python
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me---email:331815690@qq.com
+- 📫 How to reach me---email:steveive36@gmail.com
 
 <!---
 SteveIve/SteveIve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
