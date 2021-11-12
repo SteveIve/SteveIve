@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteveIve
-- 👀 I’m interested in C/Java/Python
+- 👀 A greenhand in C/Python/Java
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me---email:steveive36@gmail.com
 
